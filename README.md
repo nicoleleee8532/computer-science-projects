@@ -17,9 +17,8 @@ using structured healthcare data.
 
 **Tech:** Python · Machine Learning · Data Analysis
 
-[View Case Study](./medical-condition-prediction/) |
-[Source Code](YOUR_LINK) |
-[Presentation](YOUR_CANVA_LINK)
+[Repo](https://github.com/nicoleleee8532/medical-prediction) |
+
 
 ---
 
@@ -28,7 +27,7 @@ Machine-learning application exploring intelligent cancer diagnosis.
 
 **Tech:** Python · Machine Learning · Data Analysis
 
-[View Project](./intelligent-cancer-diagnosis/)
+[View Project](https://github.com/nicoleleee8532/cancer-diagnosis)
 
 ---
 
@@ -39,8 +38,8 @@ DeepDream-based creative computing team project.
 
 **Tech:** Python · PyTorch · OpenCV · DeepDream
 
-[My Contribution](./neural-dream/) |
-[Original Team Repository](ORIGINAL_REPO)
+[My Contribution](https://canva.link/bugxcbbz0kb2owj)|
+[Original Team Repository](https://github.com/nicoleleee8532/neural-dream)
 
 ---
 
@@ -53,7 +52,7 @@ Go-Back-N ARQ protocol.
 
 **Tech:** Network Programming · UDP · Go-Back-N
 
-[View Project](./go-back-n-file-transfer/)
+[View Project](https://github.com/nicoleleee8532/Reliable-File-Transfer-Using-Go-Back-N)
 
 ---
 
@@ -61,9 +60,7 @@ Go-Back-N ARQ protocol.
 
 Web crawling and automated data-collection project.
 
-[View Case Study](./web-crawler/) |
-[Source Code](YOUR_REPO) |
-[Presentation](YOUR_CANVA)
+[View Repo](https://github.com/nicoleleee8532/webcrawler)
 
 ---
 
@@ -72,26 +69,30 @@ Web crawling and automated data-collection project.
 ### Road Network Analysis
 Graph and road-network analysis project.
 
-[View Project](./road-network/)
+[View Project](https://github.com/nicoleleee8532/road-network)
 
 ### Spatial Database
 Spatial-data storage, querying and analysis project.
 
-[View Project](./spatial-database/)
+[View Project](https://github.com/nicoleleee8532/Skincare-Recommendation-System-for-big-data-application)
 
 ---
 
 ## 🎮 Graphics & Interactive Projects
 
 ### Avatar-Inspired Game
-Interactive game and computer-graphics project.
-
-[View Project](./avatar-game/)
+Interactive game and computer-graphics project， participated in the graphics design of the game
+[View Project](https://github.com/Ahmed-Samir101/WuXing)
 
 ### Interactive Game-Style Study Guide
 Gamification and interactive educational-design project.
 
-[View Project](...)
+[Canva Link](https://www.canva.cn/design/DAFxaPnCmD0/tntGAcVziG7TTwsk_h_eOA/edit?utm_content=DAFxaPnCmD0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+)
+
+### Website to learn how to build your own website
+[Canva Link] (https://canva.link/ru3lwop8id4z72m)
+[Github] (https://github.com/Ahmed-Samir101/404Academy)
 
 ---
 
@@ -102,18 +103,8 @@ Gamification and interactive educational-design project.
 
 AI-generated video / creative technology team project.
 
-[View Project](./competitions/vivo-aigc/)
+[View Project](https://github.com/nicoleleee8532/vivo-AIGC)
 
-### Shanghai Lingang Maker Competition
-**Preliminary Round Qualifier · Designer**
-
-Contributed to project design and visual communication as part
-of a multidisciplinary team.
-
-[View Project](./competitions/shanghai-lingang/)
 
 ---
 
-## 🔗 Links
-
-Portfolio Website · GitHub · Resume · LinkedIn

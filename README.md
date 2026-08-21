@@ -17,7 +17,7 @@ using structured healthcare data.
 
 **Tech:** Python · Machine Learning · Data Analysis
 
-[Repo](https://github.com/nicoleleee8532/medical-prediction) |
+[Repo](https://github.com/nicoleleee8532/medical-prediction)
 
 
 ---

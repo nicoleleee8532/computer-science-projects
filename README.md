@@ -27,7 +27,7 @@ Machine learning pipeline to predict severe vaccine adverse events from 40,000+ 
 
 **Tech:** Machine Learning · Predictive Analytics · Python · SHAP · XGBoost
 
-[Repo] (https://github.com/nicoleleee8532/Severe-Vaccine-Adverse-Event-Prediction)
+[Repo](https://github.com/nicoleleee8532/Severe-Vaccine-Adverse-Event-Prediction)
 
 
 ### 🧠 Intelligent Cancer Diagnosis

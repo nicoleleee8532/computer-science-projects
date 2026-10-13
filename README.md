@@ -22,7 +22,8 @@ using structured healthcare data.
 
 ---
 
-### 💉 
+### 💉 Severe Vaccine Adverse Event Prediction <img width="468" height="10" alt="image" src="https://github.com/user-attachments/assets/762357e9-cfbc-42e3-88c6-d0fce1f148ef" />
+
 Machine learning pipeline to predict severe vaccine adverse events from 40,000+ real-world VAERS reports, comparing four models (Logistic Regression, Random Forest, XGBoost, MLP) and addressing 6% class imbalance via oversampling and hyperparameter tuning.
 
 **Tech:** Machine Learning · Predictive Analytics · Python · SHAP · XGBoost

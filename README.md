@@ -80,6 +80,10 @@ Graph and road-network analysis project.
 
 [View Project](https://github.com/nicoleleee8532/road-network)
 
+---
+
+## 🧴 Data Applications
+
 ### Skincare Recommendation System for Big Data Applications
 A content-based recommender that matches skincare products to natural-language descriptions of skin type, concerns, and ingredient preferences.
 

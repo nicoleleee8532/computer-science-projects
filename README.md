@@ -80,8 +80,10 @@ Graph and road-network analysis project.
 
 [View Project](https://github.com/nicoleleee8532/road-network)
 
-### Spatial Database
-Spatial-data storage, querying and analysis project.
+### Skincare Recommendation System for Big Data Applications
+A content-based recommender that matches skincare products to natural-language descriptions of skin type, concerns, and ingredient preferences.
+
+**Tech:** Python · JavaScript · HTML/CSS · Content-Based Recommendation · Data Processing
 
 [View Project](https://github.com/nicoleleee8532/Skincare-Recommendation-System-for-big-data-application)
 
